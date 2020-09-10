@@ -20,3 +20,15 @@ LOADING
 
 ## Kubernetes
 LOADING ..
+
+
+##Usage
+To start the cluster, type this command:
+```
+cd bigdata-cluster
+docker-compose up -d
+```
+To shutdown the cluster, you need to type the command below:
+```
+docker-compose down
+```

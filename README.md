@@ -22,7 +22,7 @@ LOADING
 LOADING ..
 
 
-##Usage
+## Usage
 To start the cluster, type this command:
 ```
 cd bigdata-cluster
